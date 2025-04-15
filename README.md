@@ -10,8 +10,8 @@ Easily automate swaps, faucet claims, deposits, and approvals directly on the **
 ![Made by Kazuha](https://img.shields.io/badge/Made%20By-Kazuha-ff69b4)
 
 
-# Telegram Channel: .[Channel](https://t.me/Offical_Im_kazuha)
-# GitHub Repository: [Rise-Bot](https://github.com/Kazuha787/Rise-Auto-Bot.git)
+# Telegram Channel: .[Channel](h[ttps://t.me/Offical_Im_kazuha](https://t.me/ghostdropfind))
+# GitHub Repository: [Rise-Bot]([https://github.com/Kazuha787/Rise-Auto-Bot.git](https://github.com/fahry19/RISE-TESTNET-BOT/new/main))
 
 ## 🚀 Features
 
@@ -82,8 +82,8 @@ fs / path / timers
 
 Author & Credits
 
-Made with love by Kazuha
-GitHub: Kazuha787
+Made with love by Ghostdrop
+GitHub: Ghostdrop
 ---
 License
 
