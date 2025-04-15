@@ -1,0 +1,17 @@
+{
+  "name": "Rise-Auto-Bot",
+  "version": "1.0.0",
+  "description": "Automated bot for Rise Testnet with Blessed UI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "setup": "npm install"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "ethers": "^6.13.2",
+    "blessed": "^0.1.81"
+  },
+  "author": "GhostDrop",
+  "license": "MIT"
+}
